@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto, sans-serif;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(35, 104, 164);
+    
+}
